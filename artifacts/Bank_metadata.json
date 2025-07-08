@@ -78,11 +78,11 @@
 	},
 	"sources": {
 		"bank.sol": {
-			"keccak256": "0x4d91e3bf319d219f651dcfc9dad1a048be55e2df96482862d8a649c115b471cb",
+			"keccak256": "0x0b6864f1e2829271beea9835c36bfe3f6772df312b932948bb12e0f9c2c21520",
 			"license": "Unlicense",
 			"urls": [
-				"bzz-raw://20372e1b064996ca63e87cb5e5bc0bf1dd0b5d5059dceaeaab4c8b140a67c656",
-				"dweb:/ipfs/QmbQYNuyXaG3xEhFALkQYR5KwKXo45nXB7gcn5udRzkYXN"
+				"bzz-raw://b258dc77ed6380177af61dabbab5ab7c65ea1ff0e25055e05749c3e05d20fdc5",
+				"dweb:/ipfs/QmT3U6ZHnNheZVomEU2EzPWns4AwxWymR1zCLkMZMoRH43"
 			]
 		}
 	},

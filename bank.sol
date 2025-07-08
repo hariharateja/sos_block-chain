@@ -1,18 +1,18 @@
 //SPDX-License-Identifier: Unlicense
 pragma solidity ^0.8.0;
 contract Bank{
-    uint bal;
+    uint256 balance;
     constructor() {
-        bal = 1;
+        balance = 1;
     }
-    function getbalance() public view returns(uint){
-        return bal;
+    function getbalance() public view returns (uint256) {
+        return balance;
     }
-    function deposit(uint x) public  {
-        bal = bal + x;
+    function deposit(uint256 x) public  {
+        balance = balance + x;
     }
-    function withdraw(uint y) public{
-        bal = bal - y;
+    function withdraw(uint256 y) public{
+        balance = balance - y;
         
     }
 
